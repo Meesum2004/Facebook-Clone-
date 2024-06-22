@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}.navbar-brand img {
+    height: 40px;
+  }
+  .navbar-nav .nav-item .nav-link {
+    padding: 0.5rem 3rem;
+  }
+  .navbar .form-inline {
+    margin-left: 50px;
+    justify-content: center;
+  }
+  .form-control {
+    width: 300px;
+  }
+  .navbar-icons .nav-item {
+    position: relative;
+  }
+  .navbar-icons .badge {
+    position: absolute;
+    top: 0;
+    right: -202;
+    font-size: 0.75rem;
+    background-color: red;
+    color: white;
+  }
